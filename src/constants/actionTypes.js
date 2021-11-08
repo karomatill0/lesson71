@@ -1,0 +1,8 @@
+export const actionTypes ={
+ INCREMENT:"INCREMENT",
+ DECREMENT:"DECREMENT",
+ ADD:"ADD",
+ SUBS:"SUBS",
+ MAKE_DARK:"MAKE_DARK",
+ MAKE_LIGHT:"MAKE_LIGHT",
+};
